@@ -1,0 +1,3 @@
+nouchka_trakt_tv_homepage:
+    path:     /
+    defaults: { _controller: NouchkaTraktTvBundle:Default:index }
